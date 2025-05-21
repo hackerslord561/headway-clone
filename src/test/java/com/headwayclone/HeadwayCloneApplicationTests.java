@@ -1,4 +1,4 @@
-package com.headwayclone.headway_clone;
+package com.headwayclone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

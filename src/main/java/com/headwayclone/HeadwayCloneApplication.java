@@ -1,4 +1,4 @@
-package com.headwayclone.headway_clone;
+package com.headwayclone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
