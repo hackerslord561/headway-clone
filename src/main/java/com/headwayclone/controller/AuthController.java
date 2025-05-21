@@ -1,3 +1,4 @@
+package com.headwayclone.controller;
 import com.headwayclone.model.User;
 import com.headwayclone.repository.UserRepository;
 import com.headwayclone.security.JwtUtil;

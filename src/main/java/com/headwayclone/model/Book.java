@@ -1,3 +1,4 @@
+package com.headwayclone.model;
 import jakarta.persistence.*;
 import lombok.Data;
 

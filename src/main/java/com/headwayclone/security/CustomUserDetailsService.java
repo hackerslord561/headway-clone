@@ -1,3 +1,4 @@
+package com.headwayclone.security;
 import com.headwayclone.model.User;
 import com.headwayclone.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

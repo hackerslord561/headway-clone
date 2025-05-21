@@ -1,3 +1,4 @@
+package com.headwayclone.repository;
 import com.headwayclone.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
